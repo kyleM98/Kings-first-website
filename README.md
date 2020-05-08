@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Welcome to my website, where i plan to provide you with all i know about **Scrums** :)
 
-You can use the [editor on GitHub](https://github.com/kyleM98/Kings-first-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## To start off, what is a Scrum?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A **Scrum** is a framwork which allows for a more improved and efficient for of teamwork for software developers. It does this by encouraging a team t learn through experiences, reflecting on their victories and failures and also working on possible problems.(Although i'm mostly reffering to software development, it is good to note that the framework of a **Scrum** can be applied to any for of teamwork.)
 
-### Markdown
+## Sprints
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are a short period of time in which a goel for a certain amount of work is set to be achieved and ready to be reviewed, if done correctly sprints allowed for fewer overall mistakes in end products and help increase levels of teamwork. So overall a Sprint takes a large project and breaks it down into parts and sets goals to achieve the individual parts before moving onto the next ones.
+### There are typically 4 steps to a sprint in order for it to be successful:
+1. Sprint planning
+2. Daily scrum/ stand-up
+3. Sprint review
+4. Sprint retrospective
+ 
+## Sprint planning:
 
-```markdown jj
-Syntax highlighted code block
+This is a key event neccessary to kick-start any sprint, it is a meeting which includes the entire **Scrum** team. During this meeting the **Product owner** would describe their desired objective/ goal and then its down to the team to answer to very important questions:
+1. What is possible for them to achieve within the time frame?
+2. How are they going to achieve this?
 
-# Header 1
-## Header 2
-### Header 3
+## Daily Scrum
 
-- Bulleted
-- List
+The daily scrum or stand-up is a short period of time taken every morning, before the team go off to work on their tasks, where the gather round and discuss and inform eachother of their most recent progress/ contributions. They typically aim to answer 3 questions:
+1. What have you completed/ achieved the previous day?
+2. What do you plan to achieve today?
+3. Are there any complications which may be stopping you from progressing?
 
-1. Numbered
-2. List
+## Sprint review
 
-**Bold** and _Italic_ and `Code` text
+This takes place toward the end of the sprint and is where the team comes together in order to discuss and demonstrate what it is that they have completed. The team memers would gather for an informal discussion on what they have completed for that itteration.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kyleM98/Kings-first-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
